@@ -4,7 +4,7 @@ import com.calypso.tk.service.LocalCache;
 import com.calypso.tk.util.ConnectionUtil;
 import java.util.Vector;
 
-public class HelloWorld {
+public class HelloWorldNew {
 
 	public static void main(String[] args) throws Exception {
 
